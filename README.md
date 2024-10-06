@@ -1,0 +1,2 @@
+In this project I have used a linearly interpolated trigram model (with equal weights for unigram, bigram and trigram) for next word prediction. Further I have also trained LSTM and BiLSTM model.
+I have curated datasets([Dataset1](https://www.kaggle.com/datasets/mazlumi/ielts-writing-scored-essays-dataset),[Dataset2](https://www.kaggle.com/datasets/benhamner/nips-2015-papers?select=Papers.csv)) from Kaggle for the corpus. 
