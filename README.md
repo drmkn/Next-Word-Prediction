@@ -1,6 +1,6 @@
 ## Next Word Prediction
 
-In this project, I have used a linearly interpolated trigram model (with equal weights for unigram, bigram, and trigram) for next word prediction. Additionally, I have trained LSTM and BiLSTM models for the same task.
+In this project, I have used a linearly interpolated trigram model (with equal weights for unigram, bigram, and trigram probabilities) for next word prediction. Additionally, I have trained LSTM and BiLSTM models for the same task.
 
 I have curated datasets from Kaggle for the corpus:
 - [Dataset1: IELTS Writing Scored Essays](https://www.kaggle.com/datasets/mazlumi/ielts-writing-scored-essays-dataset)
